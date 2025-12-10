@@ -40,13 +40,13 @@
             //########################################################################
             //############### THIS IS THE PART YOU MUST CHANGE #######################
             //########################################################################
-            var lastNames ="Last Name";
-            var firstNames ="First Name";
-            var births ="yyyy-mm-dd";//Date Of Birth
-            var passNumbers ="Passport Number";//Passport Number
-            var issueDates ="yyyy-mm-dd";//Passport Issue Date
-            var expiryDates ="yyyy-mm-dd";//Passport Expiry Date
-            var pptissuePalaces ="city name";//Passport Issue Place
+            var lastNames ="AHMED";
+            var firstNames ="HAMDANE";
+            var births ="1994/08/20";//Date Of Birth
+            var passNumbers ="DU5127851";//Passport Number
+            var issueDates ="2025/11/21";//Passport Issue Date
+            var expiryDates ="2030/11/21";//Passport Expiry Date
+            var pptissuePalaces ="AGADIR";//Passport Issue Place
             var franN ="TG700******";
             //########################################################################
             //########################################################################
